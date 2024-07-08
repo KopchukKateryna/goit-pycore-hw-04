@@ -1,0 +1,17 @@
+cats = [
+    {"id": "60b90c1c13067a15887e1ae1", "name": "Tayson", "age": 3},
+    {"id": "60b90c2413067a15887e1ae2", "name": "Vika", "age": 1},
+    {"id": "60b90c2e13067a15887e1ae3", "name": "Barsik", "age": 2},
+    {"id": "60b90c3b13067a15887e1ae4", "name": "Simon", "age": 12},
+    {"id": "60b90c4613067a15887e1ae5", "name": "Tessi", "age": 5},
+    {"id": "60b90c5a13067a15887e1ae6", "name": "Luna", "age": 4},
+    {"id": "60b90c6613067a15887e1ae7", "name": "Charlie", "age": 7},
+    {"id": "60b90c7213067a15887e1ae8", "name": "Milo", "age": 6},
+    {"id": "60b90c7e13067a15887e1ae9", "name": "Bella", "age": 8},
+    {"id": "60b90c8a13067a15887e1aea", "name": "Lucy", "age": 10},
+    {"id": "60b90c9613067a15887e1aeb", "name": "Max", "age": 9},
+    {"id": "60b90ca213067a15887e1aec", "name": "Oliver", "age": 11},
+    {"id": "60b90cae13067a15887e1aed", "name": "Simba", "age": 13},
+    {"id": "60b90cba13067a15887e1aee", "name": "Loki", "age": 14},
+    {"id": "60b90cc613067a15887e1aef", "name": "Oscar", "age": 15},
+]
