@@ -9,7 +9,7 @@ from constants.developers import developers
 from helpers.file_operations import create_path, write_file
 
 
-def total_salary(path):
+def total_salary(path: str) -> tuple:
     """
     Calculates the total and average salary from a given file. If the file does not exist,
     it creates the file and writes the data of developers constants into it.
@@ -18,7 +18,7 @@ def total_salary(path):
         path (str): The path to the file containing the salary data.
 
     Returns:
-        tuple: A tuple containing the total salary and the average salary.
+        Tuple[int, int]: A tuple containing the total salary and the average salary.
     """
     file_path = Path(path)
     if not file_path.exists():
